@@ -11,3 +11,6 @@ if (san > san2) {
 } else {
     console.log('нету числа');
 }
+
+const etke = [gsfe]
+console.log(etke);
